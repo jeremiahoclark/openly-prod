@@ -4,6 +4,10 @@
   "compatibility_date": "2026-03-01",
   "compatibility_flags": ["nodejs_compat"],
   "main": "./src/index.ts",
+  "vars": {
+    "APP_ORIGIN": "https://openly.sh",
+    "EMAIL_FROM": "Openly <signin@openly.sh>"
+  },
   "d1_databases": [
     {
       "binding": "OPENLY",
