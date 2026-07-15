@@ -1,0 +1,48 @@
+Openly Attribution License 1.0
+
+Copyright (c) 2026 openly.sh contributors
+
+Permission is granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use, copy,
+modify, merge, publish, distribute, sublicense, and sell copies of the Software,
+subject to the following conditions:
+
+1. Attribution for commercial use
+
+   If you use the Software, a modified version of the Software, or a hosted
+   service substantially based on the Software for commercial purposes, you must
+   provide reasonable credit to the original project.
+
+   Reasonable credit means a visible notice in your product, website,
+   documentation, or repository that includes:
+
+   - the name "openly.sh"; and
+   - a link to the original repository:
+     https://github.com/jeremiahoclark/openly.sh
+
+2. Non-commercial use
+
+   Non-commercial use, private use, evaluation, modification, and redistribution
+   are permitted without an additional attribution requirement beyond keeping
+   this license notice with copies or substantial portions of the Software.
+
+3. Copies and substantial portions
+
+   The above copyright notice, this license, and the commercial attribution
+   requirement must be included in all copies or substantial portions of the
+   Software.
+
+4. No trademark grant
+
+   This license does not grant rights to use project names, logos, or trademarks
+   except as necessary to provide the attribution required above.
+
+5. Disclaimer
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
